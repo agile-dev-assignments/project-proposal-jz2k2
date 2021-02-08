@@ -1,6 +1,4 @@
-### Project title
-
-User Signup and Contact Management w/2FA for OpenStack Multi-Tenant Cloud
+## User Signup and Contact Management w/2FA for OpenStack Multi-Tenant Cloud
 
 ### What and why?
 
