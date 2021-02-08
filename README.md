@@ -1,20 +1,6 @@
 ### Project title
 
-User Signup and Contact Management System w/2FA for OpenStack Multi-Tenant Cloud
-
-### What and why?
-
-I am currently working on launching a 'lite' cloud services startup in Asia, leveraging components of OpenStack to provide compute, block and object storage, load balancing, image backups/restoration, firewall, DBaaS, one-click depoyable open source apps via ansible & airflow, and several other services. The service will soft launch in Jakarta and Singapore in May to closed customers. The user/contact management system currently does not exist and will need to be created.
-
-### For whom?
-
-The user management system will be used for customers of the cloud service. This will be an actual project that will be deployed into production.
-
-### Collaboration
-
-This is a very timely project and within reasonable scope to be completed by 1-2 students in 10 weeks. I would prefer to do this project on my own as it is within my abilit### Project title
-
-User Signup and Contact Management System w/2FA for OpenStack Multi-Tenant Cloud
+User Signup and Contact Management w/2FA for OpenStack Multi-Tenant Cloud
 
 ### What and why?
 
